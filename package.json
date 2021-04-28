@@ -12,6 +12,6 @@
   "gulp-sourcemaps": "latest",
   "gulp-autoprefixer": "latest",
   "gulp-clean-css": "latest"
-  "script": "start"
+  "script: start"
   }
 }
